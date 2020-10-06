@@ -1,3 +1,7 @@
-fun main(args: Array<String>) {
-    println("Hello World!")
+fun main() {
+
+    var Gandalf = Mago("Gandalf")
+    var Legolas = Elfo("Legolas")
+    var Frodo = Hobbit ("Frodo")
+
 }

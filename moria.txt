@@ -120,3 +120,44 @@ Han superado un total de 20 salas
 ----------------------------------------------------------------------------------
 Fecha fin: 2020-10-07 22:11:33
 
+Fecha de inicio: 2020-10-07 22:35:27
+----------------------------------------------------------------------------------
+--------------------LA COMPAÑIA DEL ANILLO SE ADENTRA EN MORIA--------------------
+----------------------------------------------------------------------------------
+---Gandalf cuenta con 26 puntos de poder y Legolas tiene 16 flechas en su carcaj---
+Gandalf gana la batalla en la sala 1
+Gandalf gana la batalla en la sala 2
+Gandalf gana la batalla en la sala 3
+Gandalf gana la batalla en la sala 4
+Frodo gana la batalla en la sala 5
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Frodo gana la batalla en la sala 7
+Legolas gana la batalla en la sala 8
+Legolas gana la batalla en la sala 9
+Gandalf gana la batalla en la sala 10
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Gandalf gana la batalla en la sala 12
+Legolas gana la batalla en la sala 13
+Frodo gana la batalla en la sala 14
+Legolas gana la batalla en la sala 15
+Legolas gana la batalla en la sala 16
+Legolas gana la batalla en la sala 17
+Frodo gana la batalla en la sala 18
+Frodo gana la batalla en la sala 19
+Legolas gana la batalla en la sala 20
+Frodo ha perdido la batalla, pero lográn huir a la siguiente sala
+Frodo gana la batalla en la sala 22
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Gandalf gana la batalla en la sala 25
+Frodo gana la batalla en la sala 26
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Frodo gana la batalla en la sala 28
+Frodo gana la batalla en la sala 29
+Gandalf ha perdidio y no han conseguido huir
+----------------------------------------------------------------------------------
+La compañia ha sido derrotada en la sala 30
+Han superado un total de 23 salas
+----------------------------------------------------------------------------------
+Fecha fin: 2020-10-07 22:35:27
+

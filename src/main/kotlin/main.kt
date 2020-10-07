@@ -24,7 +24,7 @@ fun main() {
     var derrota = false
     var nDerrota = 0
 
-
+    //empiezo la simulacion
     esc.addText("Fecha de inicio: "+obtenerFecha())
     esc.addText("----------------------------------------------------------------------------------")
     esc.addText("--------------------LA COMPAÑIA DEL ANILLO SE ADENTRA EN MORIA--------------------")
@@ -139,6 +139,7 @@ fun main() {
     esc.escribir()
 }
 
+//funcion que devuelve si la huida es efectiva o no
 fun huir(): Boolean {
     var h = false
     var numAle = generaNumeroAleatorio(1, 10)
@@ -148,9 +149,15 @@ fun huir(): Boolean {
     return h
 }
 
+//funcion que devuelve la fecha con formato de anio, mes, dia, hora, minutos y segundos
 fun obtenerFecha():String{
     val current = LocalDateTime.now()
     var fecha = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")
     val fechaFormateada = current.format(fecha)
     return fechaFormateada
+}
+
+//funcion que devuelve un número aleatorio entre dos valores
+fun generaNumeroAleatorio(min: Int, max: Int): Int {
+    return Math.floor(Math.random() * (max - min + 1) + min).toInt()
 }

@@ -1,0 +1,122 @@
+Fecha de inicio: 2020-10-07 22:10:28
+----------------------------------------------------------------------------------
+--------------------LA COMPAÑIA DEL ANILLO SE ADENTRA EN MORIA--------------------
+----------------------------------------------------------------------------------
+---Gandalf cuenta con 10 puntos de poder y Legolas tiene 15 flechas en su carcaj---
+Frodo gana la batalla en la sala 1
+Legolas gana la batalla en la sala 2
+Legolas gana la batalla en la sala 3
+Frodo gana la batalla en la sala 4
+Gandalf gana la batalla en la sala 5
+Frodo ha perdio y no han conseguido huir
+----------------------------------------------------------------------------------
+La compañia ha sido derrotada en la sala 6
+Han superado un total de 5 salas
+----------------------------------------------------------------------------------
+Fecha fin: 2020-10-07 22:10:28
+
+Fecha de inicio: 2020-10-07 22:10:38
+----------------------------------------------------------------------------------
+--------------------LA COMPAÑIA DEL ANILLO SE ADENTRA EN MORIA--------------------
+----------------------------------------------------------------------------------
+---Gandalf cuenta con 5 puntos de poder y Legolas tiene 20 flechas en su carcaj---
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Legolas gana la batalla en la sala 3
+Legolas gana la batalla en la sala 4
+Gandalf ha perdidio y no han conseguido huir
+----------------------------------------------------------------------------------
+La compañia ha sido derrotada en la sala 5
+Han superado un total de 2 salas
+----------------------------------------------------------------------------------
+Fecha fin: 2020-10-07 22:10:38
+
+Fecha de inicio: 2020-10-07 22:10:53
+----------------------------------------------------------------------------------
+--------------------LA COMPAÑIA DEL ANILLO SE ADENTRA EN MORIA--------------------
+----------------------------------------------------------------------------------
+---Gandalf cuenta con 30 puntos de poder y Legolas tiene 4 flechas en su carcaj---
+Gandalf gana la batalla en la sala 1
+Legolas se quedó sin flechas, pero lográn huir a la siguiente sala
+Legolas gana la batalla en la sala 2
+Gandalf gana la batalla en la sala 3
+Legolas gana la batalla en la sala 4
+Gandalf gana la batalla en la sala 5
+Frodo gana la batalla en la sala 6
+Gandalf gana la batalla en la sala 7
+Gandalf gana la batalla en la sala 8
+Legolas se quedó sin flechas, pero lográn huir a la siguiente sala
+Legolas gana la batalla en la sala 9
+Legolas se quedó sin flechas, pero lográn huir a la siguiente sala
+Legolas gana la batalla en la sala 10
+Frodo gana la batalla en la sala 11
+Legolas gana la batalla en la sala 12
+Gandalf gana la batalla en la sala 13
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Frodo gana la batalla en la sala 15
+Gandalf ha perdidio y no han conseguido huir
+----------------------------------------------------------------------------------
+La compañia ha sido derrotada en la sala 16
+Han superado un total de 14 salas
+----------------------------------------------------------------------------------
+Fecha fin: 2020-10-07 22:10:53
+
+Fecha de inicio: 2020-10-07 22:11:21
+----------------------------------------------------------------------------------
+--------------------LA COMPAÑIA DEL ANILLO SE ADENTRA EN MORIA--------------------
+----------------------------------------------------------------------------------
+---Gandalf cuenta con 5 puntos de poder y Legolas tiene 2 flechas en su carcaj---
+Gandalf ha perdidio y no han conseguido huir
+----------------------------------------------------------------------------------
+La compañia ha sido derrotada en la sala 1
+Han superado un total de 0 salas
+----------------------------------------------------------------------------------
+Fecha fin: 2020-10-07 22:11:21
+
+Fecha de inicio: 2020-10-07 22:11:33
+----------------------------------------------------------------------------------
+--------------------LA COMPAÑIA DEL ANILLO SE ADENTRA EN MORIA--------------------
+----------------------------------------------------------------------------------
+---Gandalf cuenta con 23 puntos de poder y Legolas tiene 13 flechas en su carcaj---
+Gandalf gana la batalla en la sala 1
+Gandalf gana la batalla en la sala 2
+Legolas gana la batalla en la sala 3
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Frodo gana la batalla en la sala 8
+Legolas gana la batalla en la sala 9
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Legolas gana la batalla en la sala 11
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Frodo ha perdido la batalla, pero lográn huir a la siguiente sala
+Frodo gana la batalla en la sala 14
+Legolas gana la batalla en la sala 15
+Legolas gana la batalla en la sala 16
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Frodo gana la batalla en la sala 18
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Legolas gana la batalla en la sala 20
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Frodo gana la batalla en la sala 22
+Gandalf gana la batalla en la sala 23
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Legolas gana la batalla en la sala 25
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Frodo gana la batalla en la sala 29
+Legolas gana la batalla en la sala 30
+Legolas gana la batalla en la sala 31
+Frodo gana la batalla en la sala 32
+Legolas gana la batalla en la sala 33
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Gandalf ha perdido, pero lográn huir a la siguiente sala
+Frodo gana la batalla en la sala 36
+----------------------------------------------------------------------------------
+La compañia ha logrado pasar Moria!
+Han superado un total de 20 salas
+----------------------------------------------------------------------------------
+Fecha fin: 2020-10-07 22:11:33
+

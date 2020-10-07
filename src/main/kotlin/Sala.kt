@@ -1,22 +1,23 @@
 class Sala (var numSala: Int){
 
-    var poderMaligno = asignarPoderMaligno()
-    var flechasSala = asignarAccion()
-    var enemigos = asignarAccion()
+    var tipo = asignarTipo()
+    var poderMaligno = asignarUnoDiez()
+    var flechasSala = asignarUnoDiez()
+    var enemigos = asignarUnoDiez()
 
 
-    fun asignarPoderMaligno() :String{
-        var poder = ""
+    fun asignarTipo() :String{
+        var tipo = ""
         var i = generaNumeroAleatorio(1,3)
         when (i){
-            1 -> poder = "magico"
-            2 -> poder = "accion"
-            3 -> poder = "habilidad"
+            1 -> tipo = "magica"
+            2 -> tipo = "accion"
+            3 -> tipo = "habilidad"
         }
-        return poder
+        return tipo
     }
 
-    fun asignarAccion(): Int{
+    fun asignarUnoDiez(): Int{
         if (poderMaligno.equals("accion")){
             return generaNumeroAleatorio(1,10)
         }else

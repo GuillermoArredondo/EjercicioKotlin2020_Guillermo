@@ -1,9 +1,9 @@
 class Sala (var numSala: Int){
 
     var tipo = asignarTipo()
-    var poderMaligno = asignarUnoDiez()
-    var flechasSala = asignarUnoDiez()
-    var enemigos = asignarUnoDiez()
+    var poderMaligno = asignarPoderMaligno()
+    var flechasSala = asignarFlechasSala()
+    var enemigos = asignarEnemigos()
 
 
     fun asignarTipo() :String{
@@ -17,11 +17,13 @@ class Sala (var numSala: Int){
         return tipo
     }
 
-    fun asignarUnoDiez(): Int{
-        if (poderMaligno.equals("accion")){
-            return generaNumeroAleatorio(1,10)
-        }else
-            return 0
+    fun asignarPoderMaligno(): Int {
+        return generaNumeroAleatorio(Parametros.MINPMALIGNO, Parametros.MAXPMALIGNO)
     }
-
+    fun asignarFlechasSala(): Int {
+        return generaNumeroAleatorio(Parametros.MINFLECHAS, Parametros.MAXFLECHAS)
+    }
+    fun asignarEnemigos(): Int {
+        return generaNumeroAleatorio(Parametros.MINENEMIGOS, Parametros.MAXENEMIGOS)
+    }
 }
